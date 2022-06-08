@@ -14,14 +14,4 @@ entries:
     urls:
     - https://github.com/james1miller93/helm-charts/releases/download/helm-chart-test-0.1.2/helm-chart-test-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-10-15T12:08:23.04138+01:00"
-    description: A Helm chart for Kubernetes
-    digest: eef4a9c932d692d5009034af7296a9ece907ef5bd66bbf79cef5a4f61c6b0fe3
-    name: helm-chart-test
-    type: application
-    urls:
-    - https://james1miller93.github.io/helm-chart/helm-chart-test-0.1.0.tgz
-    version: 0.1.0
 generated: "2022-06-08T19:29:29.918093468Z"
