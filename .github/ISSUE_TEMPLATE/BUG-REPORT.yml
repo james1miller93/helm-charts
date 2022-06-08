@@ -35,11 +35,11 @@ body:
     attributes:
       label: Helm Version
       description: What version of helm are you using?
-      placeholder: ex. v3.8.2
+      placeholder: ex. 3.8.2
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: k8s-version
     attributes:
       label: Kubernetes Version
