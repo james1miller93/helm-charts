@@ -1,8 +1,8 @@
 # Kubernetes Helm Charts
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![](https://github.com/james1miller93/helm-charts/workflows/Release%20Charts/badge.svg?branch=master)](https://github.com/jaegertracing/helm-charts/actions)
-[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/james1miller93)](https://artifacthub.io/packages/search?repo=james1miller93)
+[![Release Charts](https://github.com/james1miller93/helm-charts/actions/workflows/release.yaml/badge.svg)](https://github.com/james1miller93/helm-charts/actions/workflows/release.yaml)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/james1miller93)](https://artifacthub.io/packages/search?repo=james1miller93)
 
 These charts are provided as-is with no warranties.
 
