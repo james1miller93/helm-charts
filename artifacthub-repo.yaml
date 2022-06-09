@@ -2,3 +2,5 @@ repositoryID: f097ba30-5316-45a5-86db-885401ccd1df
 owners:
   - name: james miller
     email: james1miller93@gmail.com
+ignore:
+  - name: helm-chart-test
